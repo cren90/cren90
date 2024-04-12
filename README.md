@@ -1,3 +1,6 @@
+
+![banner (1)](https://github.com/cren90/cren90/assets/24256190/ac0dcfbb-1e35-44d5-b507-a60420038af7)
+
 Hi 👋 My name is Chris Renfrow
 ==============================
 
