@@ -65,6 +65,3 @@ I've done consulting for companies including Tyfoom, IdMission and Discount tire
 [![Discount Tire](https://play-lh.googleusercontent.com/csKATL2XE9Me-jl6BzTc1FNSRfTBCsPZ91AiWkyRoF6_yOG4FbbBXaqqWS-DI-psKq7J=s48-rw)](https://www.discounttire.com/)
 
 
-### My GitHub Stats
-
-<a href="http://www.github.com/cren90"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cren90&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
