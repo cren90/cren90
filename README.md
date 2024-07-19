@@ -43,11 +43,14 @@ I worked primarily on building features on the app running on the tablet attache
 <a href="https://hydrow.com"><img src="https://res.cloudinary.com/hydrow/image/upload/f_auto/w_1080/q_80/v1683212904/PDP/OG_Prod_XL.jpg" height=48 alt="Hydrow"/></a>
 [![Hydrow Companion](https://play-lh.googleusercontent.com/_fZDT4oNXhpqXbV2s2c1ugebuVhxs4Oxg1r4Tdh_vBX_uR3RFAMd5KMS_wlIXQu5ilg=s48-rw)](https://play.google.com/store/apps/details?id=com.truerowing.hydrowcompanion)
 
-#### Other
+#### Apriva
 
-I worked on the C# API as well as the Android app for allowing people to recharge their Dave & Buster's Power Cards from their phones rather than the kiosk.
+I worked on the C# API and Android apps including the AprivaPay app to allow merchants to accept payments, manage inventory, etc. on their mobile device, and the Dave & Buster's app which allows people to recharge their Dave & Buster's Power Cards from their phones rather than the kiosk
 
 [![Dave & Busters](https://play-lh.googleusercontent.com/Apaowgl1g51qYF1QTrCAuCcNdBf0G3WLiyRpa1et11aNZV-aRbKPdUBl89xPvAAEmfcF=s48-rw)](https://play.google.com/store/apps/details?id=com.DB.playinstore)
+[![AprivaPay](https://play-lh.googleusercontent.com/4BKZI8NVZWTjqZGMYWilAvalFb5wofeCoOxuUFG4z5g73yJ5HPIorPvj9l03AF5Z5d3H=s48-rw)](https://play.google.com/store/apps/details?id=com.apriva.mobile.aprivapayplus)
+
+#### Other
 
 I worked on the team creating the Virb app to integrate with the Virb line of action cameras including the Virb Ultra 30 and the Virb360
 
