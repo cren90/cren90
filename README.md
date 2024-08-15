@@ -60,7 +60,7 @@ I built the Gravity framework Android application to facilitate P2P network conn
 
 <a href="https://www.fasetto.com/gravity"><img src="https://github.com/cren90/cren90/assets/24256190/54bfba85-177a-4845-89a6-be5ce10a77c4" height=48 alt="Gravity"/></a>
 
-I've done consulting for companies including Tyfoom, IdMission and Discount tire building Android apps and other software solutions.
+I've done consulting for companies including Tyfoom, IdMission and Discount Tire building Android apps and other software solutions.
 
 [![Tyfoom](https://play-lh.googleusercontent.com/cDXLGAGDevUbsFds6PpFxvGXGa_YRgRvFh95L5cw0FftDjUz8uxXLPFxl4OKD5JILxyu=s48-rw)](https://play.google.com/store/apps/details?id=com.tyfoom.android.tyfoom)
 [![IDMission](https://play-lh.googleusercontent.com/QLccMUrRgqCxME5iDkI_gNFZcC1zyOc4Uhdu_5Dkp6tQTp7IOci8MIWrEdOdk-8Diw=s48-rw)](https://www.idmission.com/en/blog/idmission-tendedbar)
